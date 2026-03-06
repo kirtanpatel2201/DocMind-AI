@@ -181,7 +181,6 @@ Ask questions about research papers or medical reports.
 
 Quickly search through technical documentation and guides.
 
----
 
 ---
 
@@ -201,4 +200,4 @@ Possible enhancements for the project:
 
 # 👨‍💻 Author
 
-Collaborative
+### Collaborative
